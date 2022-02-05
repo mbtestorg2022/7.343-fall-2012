@@ -51,20 +51,201 @@ This course is graded pass/fail, and grading will depend on student attendance, 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Targeted Therapy in the Pre-Systems Biology Era | &nbsp; |
-| 3 | High-Throughput Data Acquisition I: Gene Sequencing and Functional Genomics | &nbsp; |
-| 4 | High-Throughput Data Acquisition II: Proteomics | &nbsp; |
-| 5 | Gene Expression Analysis | &nbsp; |
-| 6 | Network Biology | &nbsp; |
-| 7 | Clustering | &nbsp; |
-| 8 | Regression Modeling | &nbsp; |
-| 9 | Logic Modeling | Midterm writing assignment due |
-| 10 | Kinetic Modeling | &nbsp; |
-| 11 | Structural Biology | &nbsp; |
-| 12 | Synthetic Biology | Finalize choice of paper for oral presentation |
-| 13 | Field Trip: Visit to [Merrimack Pharmaceuticals](http://www.merrimackpharma.com/) | &nbsp; |
-| 14 | Systems Pharmacology and Network Medicine | &nbsp; |
-| 15 | Final Class | Oral Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Targeted Therapy in the Pre-Systems Biology Era
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+High-Throughput Data Acquisition I: Gene Sequencing and Functional Genomics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+High-Throughput Data Acquisition II: Proteomics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Gene Expression Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Network Biology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Clustering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Regression Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Logic Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm writing assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Structural Biology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Synthetic Biology
+{{< tdclose >}}
+{{< tdopen >}}
+Finalize choice of paper for oral presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip: Visit to [Merrimack Pharmaceuticals](http://www.merrimackpharma.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Systems Pharmacology and Network Medicine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Class
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
