@@ -12,21 +12,21 @@ Lectures: 1 session / week, 2 hours / session
 Prerequisites
 -------------
 
-No advanced training in mathematics or computational biology is required, though students should have a basic understanding of cell and molecular biology ([7.03](/courses/7-03-genetics-fall-2004/), 7.05, [7.06](/courses/7-06-cell-biology-spring-2007/), or [7.28](/courses/7-28-molecular-biology-spring-2005/)). Previous experience with computational methods or differential equations would be beneficial but is not required.
+No advanced training in mathematics or computational biology is required, though students should have a basic understanding of cell and molecular biology ([7.03](/courses/7-03-genetics-fall-2004), 7.05, [7.06](/courses/7-06-cell-biology-spring-2007), or [7.28](/courses/7-28-molecular-biology-spring-2005)). Previous experience with computational methods or differential equations would be beneficial but is not required.
 
 Recommended prerequisites are:
 
-[_7.03 Genetics_](/courses/7-03-genetics-fall-2004/)
+[_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
 
 7.05 General Biochemistry
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 20.390J Foundations of Computational and Systems Biology
 
-[_18.03 Differential Equations_](/courses/18-03-differential-equations-spring-2010/)
+[_18.03 Differential Equations_](/courses/18-03-differential-equations-spring-2010)
 
 Course Description
 ------------------
